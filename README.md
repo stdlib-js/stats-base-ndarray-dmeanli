@@ -63,7 +63,7 @@ The [arithmetic mean][arithmetic-mean] is defined as
 ## Usage
 
 ```javascript
-import dmeanli from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-dmeanli@esm/index.mjs';
+import dmeanli from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-dmeanli@v0.1.0-esm/index.mjs';
 ```
 
 #### dmeanli( arrays )
@@ -115,7 +115,7 @@ The function has the following parameters:
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ctor@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
-import dmeanli from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-dmeanli@esm/index.mjs';
+import dmeanli from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-dmeanli@v0.1.0-esm/index.mjs';
 
 var xbuf = discreteUniform( 10, -50, 50, {
     'dtype': 'float64'
