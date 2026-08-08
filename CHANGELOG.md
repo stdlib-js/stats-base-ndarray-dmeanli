@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-07)
+## Unreleased (2026-08-08)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`d3a4161`](https://github.com/stdlib-js/stdlib/commit/d3a41618b4c38b288d148c02343033a5fbd157f9) - **bench:** fix require path _(by Athan Reines)_
 -   [`9e08b03`](https://github.com/stdlib-js/stdlib/commit/9e08b032fcd809b5eaaea6d9f4e834b3f9edf88f) - **feat:** add C implementation for `@stdlib/stats-base/ndarray/dmeanli` [(#13826)](https://github.com/stdlib-js/stdlib/pull/13826) _(by Ujjwal Verma, Athan Reines)_
 -   [`ddc2020`](https://github.com/stdlib-js/stdlib/commit/ddc2020894f672547e4101425bf5f609dcabf634) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`9a51841`](https://github.com/stdlib-js/stdlib/commit/9a51841213eb13adbd6b8fe36d96c00aac9fbb17) - **bench:** refactor to use string interpolation in `stats/base` [(#11393)](https://github.com/stdlib-js/stdlib/pull/11393) _(by Karan Anand)_
